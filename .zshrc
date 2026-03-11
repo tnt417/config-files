@@ -7,5 +7,8 @@ bindkey -v
 
 KEYTIMEOUT=1
 
-export PATH="$HOME/.local/bin:$PATH"
+export PATH="$HOME/bin:$PATH"
 eval "$(starship init zsh)"
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv zsh)"
+export PATH="/home/linuxbrew/.linuxbrew/opt/node@24/bin:$PATH"
