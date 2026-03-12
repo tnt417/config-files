@@ -10,5 +10,5 @@ KEYTIMEOUT=1
 export PATH="$HOME/bin:$PATH"
 eval "$(starship init zsh)"
 
-eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv zsh)"
-export PATH="/home/linuxbrew/.linuxbrew/opt/node@24/bin:$PATH"
+# eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv zsh)"
+# export PATH="/home/linuxbrew/.linuxbrew/opt/node@24/bin:$PATH"
