@@ -1,5 +1,5 @@
 ## Prerequisites
-- Lazy prereqs: `git`, `make`, `unzip`, `gcc`, `ripgrep`, `fd-find`, `tree-sitter` CLI, `xclip`, ...
+- [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) prereqs: `git`, `make`, `unzip`, `gcc`, `ripgrep`, `fd-find`, `tree-sitter` CLI, `xclip`, ...
 - Prefered font: JetBrains Mono Nerd Font
 - Set your terminal theme to TokyoNight Night for best experience
 
